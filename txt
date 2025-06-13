@@ -1,0 +1,11 @@
+/project-folder/
+│
+├── index.html
+├── catalog.html
+├── styles.css
+├── main.css
+└── images/
+    ├── ac1.jpg
+    ├── ac2.jpg
+    ├── ac3.jpg
+    └── hero-bg.jpg
